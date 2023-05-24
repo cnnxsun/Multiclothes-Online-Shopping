@@ -81,28 +81,39 @@ PNG
 
 
 1. The first page to access is the Home Page which contains a navigation bar that links to other pages, articles, and a footer.
+2. The first element in the navigation bar is the Home Page which links to the Homepage of the website. (http://localhost:3031/)
 ![Screenshot 2023-05-24 124606](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/1adb3959-6c55-42b7-bab5-9e321a4d3f30)
 ![image](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/86a29ccf-54ee-42f5-a4f0-04870b579a0c)
-2. The first element in the navigation bar is the Home Page which links to the Homepage of the website. (http://localhost:3031/)
+
 3. The second element in the navigation bar is Search which links to the Search Page. (http://localhost:3031/search)
 * Search Page includes 3 criteria which are product name, id, and brand.
 * Once you click on the magnifying glass button on the Search Page to search, you’ll see the product information from the database, based on your search input.
+![Screenshot 2023-05-24 135717](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/3e24b2b6-109d-4ac1-820f-1d551f9c117d)
+
 4. The third element in the navigation bar is About Us which links to the Page that contains information about the developers of the website (http://localhost:3031/about-us) 
+![Screenshot 2023-05-24 140026](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/e05a83e5-504a-4fe1-ae59-38e17b0293fc)
+
 5. The fourth element in the navigation bar is Administrator which links to the login page for administrators. (http://localhost:3031/admin-login)
 * You must enter the valid username and password that exist in the database in order to access the administrator’s pages.
 * Once you successfully log in, you’ll access the Homepage for administrators.
 * On the Homepage for administrators (http://localhost:3031/adminhome), there are two buttons: User Account Management and Product Management.
+![Screenshot 2023-05-24 140944](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/f050c109-1a4d-4214-9851-31010cc22b32)
+![Screenshot 2023-05-24 141112](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/58db3c45-72c3-48d9-a6c1-bf7402a1905d)
+
 6. The User Account Management page (http://localhost:3031/admin-manage)
 * It has a form for adding a new administrator 
 * You can view or search for administrators’ information by using 3 criteria: Admin Num, First Name, and Last Name.
 * After searching for administrators’ information, you can delete the administrator's account by clicking the trash can button or edit the administrator’s account information by clicking the Edit button.
+![Screenshot 2023-05-24 141314](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/33c8e5ca-b60e-48a7-bb35-1991de04b507)
+
 7. The Product Management page will show the list of own products (http://localhost:3031/product-lists)
 * You can delete and edit the products 
 * You can add a new product by clicking on the ADD NEW button which links to the form to fill in the new product information. (http://localhost:3031/product-add)
+![Screenshot 2023-05-24 141502](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/bcd12855-deb3-4135-8985-93b3a90480d8)
+![Screenshot 2023-05-24 141553](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/926c1e9d-7bf3-4ea8-b700-92bd87e972da)
 
 
 * Remarks 
-
 
 1. The elements in the footer of every page aren’t linked to anything.
 2. Homepage:
