@@ -1,6 +1,6 @@
 # Multiclothes-Online-Shopping
 
-
+![Screenshot 2023-05-24 124606](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/1adb3959-6c55-42b7-bab5-9e321a4d3f30)
 
 This project is the frontend and backend development of the fashion online shopping business domain that was developed by Russarin Eaimrittikrai, Chaninan Phetpangun, Penpitchapa Pantaraksakul, and Warangkhana Srichan. The technologies that were utilized in this project are HTML, CSS, JavaScript, Node.js, Express, and SQL.
 
