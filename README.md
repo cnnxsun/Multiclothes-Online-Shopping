@@ -3,7 +3,7 @@ ITCS212 Web Programming
 Project Phase 2
 
 
-This project is the frontend and backend development of the fashion online shopping business domain that was developed by 6488021, 6488061, 6488175, and 6188096. The technologies that were utilized in this project are HTML, CSS, JavaScript, Node.js, Express, and SQL.
+This project is the frontend and backend development of the fashion online shopping business domain that was developed by Russarin Eaimrittikrai, Chaninan Phetpangun, Penpitchapa Pantaraksakul, and Warangkhana Srichan. The technologies that were utilized in this project are HTML, CSS, JavaScript, Node.js, Express, and SQL.
 
 
 * How to Install and Run the Project
