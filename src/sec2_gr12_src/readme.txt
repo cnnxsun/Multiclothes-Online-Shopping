@@ -58,7 +58,7 @@ CSS
 * SearchPage.css
 * User_Account_Management.css
 * WelcomePageAdmin.css
-                JS (For Web services interaction)
+JS (For Web services interaction)
 * client.js
 * client2.js
 * client3.js
@@ -67,12 +67,9 @@ CSS
 PNG
 * MultiClothesLogo.png
 
-
-
-
 7. To view website pages, you must open 2 terminals, split them, and run ‘npm start’ in each terminal for
-1. ws_backend.js by typing cd sec2_gr12_ws_src, then npm install
-2. ws_ui.js by typing cd sec2_gr12_src, then npm install
+   1. ws_backend.js by typing cd sec2_gr12_ws_src, then npm install
+   2. ws_ui.js by typing cd sec2_gr12_src, then npm install
 
 
 8. After running the codes in the VSCode, Input the URL ‘http://localhost:3031/’ in the web browser of your choice (recommended: Google Chrome)
@@ -145,8 +142,6 @@ https://www.flaticon.com/free-icon/facebook_1077041
 https://www.flaticon.com/free-icon/twitter-logo-on-black-background_60580 
 * TikTok Icon
 https://www.flaticon.com/free-icon/tiktok_3938055?related_id=3938074&origin=search 
-
-
 
 
 2. Search Results Page and Product Detail Pages
