@@ -1,6 +1,5 @@
 # Multiclothes-Online-Shopping
 
-![Screenshot 2023-05-24 124606](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/1adb3959-6c55-42b7-bab5-9e321a4d3f30)
 
 This project is the frontend and backend development of the fashion online shopping business domain that was developed by Russarin Eaimrittikrai, Chaninan Phetpangun, Penpitchapa Pantaraksakul, and Warangkhana Srichan. The technologies that were utilized in this project are HTML, CSS, JavaScript, Node.js, Express, and SQL.
 
@@ -82,6 +81,8 @@ PNG
 
 
 1. The first page to access is the Home Page which contains a navigation bar that links to other pages, articles, and a footer.
+![Screenshot 2023-05-24 124606](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/1adb3959-6c55-42b7-bab5-9e321a4d3f30)
+![image](https://github.com/cnnxsun/Multiclothes-Online-Shopping/assets/125891778/86a29ccf-54ee-42f5-a4f0-04870b579a0c)
 2. The first element in the navigation bar is the Home Page which links to the Homepage of the website. (http://localhost:3031/)
 3. The second element in the navigation bar is Search which links to the Search Page. (http://localhost:3031/search)
 * Search Page includes 3 criteria which are product name, id, and brand.
