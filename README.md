@@ -72,8 +72,8 @@ PNG
 
 
 7. To view website pages, you must open 2 terminals, split them, and run ‘npm start’ in each terminal for
-1. ws_backend.js by typing cd sec2_gr12_ws_src, then npm install
-2. ws_ui.js by typing cd sec2_gr12_src, then npm install
+   1. ws_backend.js by typing cd sec2_gr12_ws_src, then npm install
+   2. ws_ui.js by typing cd sec2_gr12_src, then npm install
 
 
 8. After running the codes in the VSCode, Input the URL ‘http://localhost:3031/’ in the web browser of your choice (recommended: Google Chrome)
